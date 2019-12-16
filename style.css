@@ -73,3 +73,12 @@ button {
     font-weight: bold;
     border-radius: 10px;
 }
+
+input {
+    width:300px;
+    margin: 20px;
+}
+textarea {
+    width: 400px;
+    height: 250px;
+}
